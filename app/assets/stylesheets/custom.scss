@@ -1,0 +1,13 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+body {
+  padding-top: 70px;
+}
+
+.odin-fb-nav {
+  background-color: #225ab9;
+  a {
+    color: #fff;
+  }
+}
